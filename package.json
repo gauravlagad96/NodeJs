@@ -1,0 +1,14 @@
+{
+  "name": "csbs_node",
+  "version": "1.0.0",
+  "description": "hii",
+  "main": "9_package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Lagad",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3"
+  }
+}
