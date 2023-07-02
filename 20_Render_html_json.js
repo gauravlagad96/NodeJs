@@ -7,7 +7,7 @@ Render(display)
 const express =require('express')
 const app = express()
 app.get('',(req,res)=>{
-    // console.log("data sent by browser>",req.query.name)
+    // console.log("data sent by browser>",req.query.name) 
     res.send(`<h1>welcome to Home page</h1> 
     <a href="/about"> go to about page</a>`)
 })
